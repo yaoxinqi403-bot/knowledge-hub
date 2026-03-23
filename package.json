@@ -1,0 +1,1 @@
+{"name": "knowledge-hub","private": true,"workspaces": ["frontend/*","backend/*"],"scripts": {"install": "npm install && npm install --workspaces"}}
